@@ -1,4 +1,4 @@
-# My Custom Functionality #
+# Silent May Custom Functionality #
 
 A basic plugin to load custom CSS and JS files in WordPress.
 
