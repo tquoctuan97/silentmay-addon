@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name:	My Custom Functionality
-Plugin URI:		https://example.com
-Description:	My custom functions.
+Plugin Name:	Silent May Addon
+Plugin URI:		https://silentmay.com/
+Description:	Add custom functions in Oxygen.
 Version:		1.0.0
-Author:			Your Name
-Author URI:		https://example.com
+Author:			SlientMay
+Author URI:		https://silentmay.com/
 License:		GPL-2.0+
 License URI:	http://www.gnu.org/licenses/gpl-2.0.txt
 
