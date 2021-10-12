@@ -32,6 +32,8 @@ add_action( 'wp_enqueue_scripts', 'custom_enqueue_files' );
  * Loads <list assets here>.
  */
 wp_enqueue_script( 'infinite-scroll-js', plugin_dir_url( __FILE__ ) . 'assets/js/infinite-scroll.pkgd.min.js', '','', true );
+wp_enqueue_script( 'masonry-js', plugin_dir_url( __FILE__ ) . 'assets/js/masonry.pkgd.min.js', '','', true );
+
 
 function custom_enqueue_files() {
 	// if this is not the front page, abort.
